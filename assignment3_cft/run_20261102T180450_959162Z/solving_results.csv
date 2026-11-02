@@ -1,0 +1,6 @@
+condition,examples,numeric_accuracy,format_compliance,unparsed_rate,token_limit_rate
+frozen_direct,100,0.0,0.0,1.0,0.0
+frozen_cot,100,0.0,0.0,1.0,0.0
+tuned_direct,100,0.01,1.0,0.0,0.0
+tuned_cot,100,0.0,0.0,1.0,1.0
+tuned_cft_cot,100,0.0,0.0,1.0,0.0

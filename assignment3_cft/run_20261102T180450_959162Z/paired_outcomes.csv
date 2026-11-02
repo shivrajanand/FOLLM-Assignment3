@@ -1,0 +1,4 @@
+comparison,both_correct,fixed,broken,both_wrong
+direct,0,1,0,99
+cot,0,0,0,100
+cft_transfer,0,0,0,100
