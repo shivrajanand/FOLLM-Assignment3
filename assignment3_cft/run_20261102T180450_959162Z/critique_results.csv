@@ -1,3 +1,0 @@
-condition,examples,verdict_accuracy,balanced_accuracy,correct_recall,incorrect_recall,false_rejection_rate,correct_invalid_rate,first_error_accuracy,joint_accuracy,format_compliance,token_limit_rate,confusion
-frozen_critic,100,0.5,0.5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,"{'CORRECT_CORRECT': 50, 'CORRECT_INCORRECT': 0, 'CORRECT_INVALID': 0, 'INCORRECT_CORRECT': 50, 'INCORRECT_INCORRECT': 0, 'INCORRECT_INVALID': 0}"
-tuned_critic,100,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.61,"{'CORRECT_CORRECT': 0, 'CORRECT_INCORRECT': 0, 'CORRECT_INVALID': 50, 'INCORRECT_CORRECT': 0, 'INCORRECT_INCORRECT': 0, 'INCORRECT_INVALID': 50}"

@@ -1,0 +1,20 @@
+[
+  {
+    "epoch": 1,
+    "response_token_loss": 0.7209151394651446,
+    "validation_metric": 0.26,
+    "validation_metric_name": "numeric_accuracy"
+  },
+  {
+    "epoch": 2,
+    "response_token_loss": 0.6858347408897376,
+    "validation_metric": 0.32,
+    "validation_metric_name": "numeric_accuracy"
+  },
+  {
+    "epoch": 3,
+    "response_token_loss": 0.6805310072501166,
+    "validation_metric": 0.32,
+    "validation_metric_name": "numeric_accuracy"
+  }
+]
